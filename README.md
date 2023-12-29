@@ -1,1 +1,2 @@
-# Labo_Docker
+# docker-course-2
+Simple application for Course Assignment
